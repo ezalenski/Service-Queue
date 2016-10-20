@@ -1,4 +1,4 @@
-# CS-251-Service-Queue
+# Service-Queue
 
 implementation of a service queue which has the following operations:
 
